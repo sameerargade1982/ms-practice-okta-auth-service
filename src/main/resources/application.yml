@@ -1,0 +1,12 @@
+server:
+  port: 8080
+okta:
+  oauth2:
+    issuer: https://dev-581373.okta.com/oauth2/default
+    client-id: 0oalz275a1QyVDA364x6
+    client-secret: 9Z706uv9Gn9CtlTWnEu8XOz_KXVRrQFJYZ1oghj-
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
